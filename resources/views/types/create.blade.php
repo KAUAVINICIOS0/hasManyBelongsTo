@@ -14,5 +14,7 @@
         <input name='description' type='text' placeholder='bla bla bla' required>
         <input type='submit' value='send'>
     </form>
+
+    <a href='{{route('service-types')}}'>voltar</a>
 </body>
 </html>

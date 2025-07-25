@@ -27,7 +27,7 @@
         </tbody>
     </table>
 
-    <a href="{{route('create-service-types')}}">criar tipo de serviço</a>
+    <a href="{{route('create-service-types')}}">criar</a>
     <a href='{{route('welcome')}}'>Voltar</a>
 </body>
 
